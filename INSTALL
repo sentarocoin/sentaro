@@ -1,0 +1,9 @@
+Building Sentaro
+
+See doc/readme-qt.rst for instructions on building Sentaro QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Sentaro.
+
+See doc/build-*.txt for instructions on building sentarod,
+the intended-for-services, no-graphical-interface, reference
+implementation of Sentaro.
